@@ -1,4 +1,4 @@
-module github.com/heroku/go-getting-started
+module unified-marketplace
 
 go 1.12
 
